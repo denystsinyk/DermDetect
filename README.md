@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a web application that identifies skin conditions using camera detection and suggests suitable skincare products. The backend is built with Flask, and the frontend uses React. It integrates a skincare API and Gemini for finding skincare ingredients based on user inputs or detected skin conditions.
+This project is a web application that identifies skin conditions using machine learning camera detection processes and suggests suitable skincare products. The backend is built with Flask, and the frontend uses React. It integrates Gemini for finding skincare ingredients based on user inputs or detected skin conditions.
 
 ## Features
 * Real-time skin condition detection through a camera.
